@@ -1,0 +1,18 @@
+{
+  "name": "holster-relay",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Standalone Holster relay server for free-association",
+  "main": "server.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@mblaney/holster": "git+https://github.com/mblaney/holster",
+    "express": "^4.21.2",
+    "shogun-core": "^6.5.1",
+    "ws": "^8.18.0"
+  }
+}
