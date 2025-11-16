@@ -12,7 +12,7 @@
   "dependencies": {
     "@mblaney/holster": "git+https://github.com/mblaney/holster",
     "express": "^4.21.2",
-    "shogun-core": "^6.5.1",
+    "shogun-core": "^6.5.2",
     "ws": "^8.18.0"
   }
 }
