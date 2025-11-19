@@ -1606,10 +1606,10 @@ sha.js@^2.4.0, sha.js@^2.4.12, sha.js@^2.4.8:
     safe-buffer "^5.2.1"
     to-buffer "^1.2.0"
 
-shogun-core@^6.5.2:
-  version "6.5.2"
-  resolved "https://registry.yarnpkg.com/shogun-core/-/shogun-core-6.5.2.tgz#ed0fc3da2c03a142e7937d42f0ac2e6a24ffd999"
-  integrity sha512-XswQFClhjhcPLNU6zCmKli3kH9Ftxk03D/3msxsINTa3E8WhzWSMt0FwG5VktdZ0g/t8cVcSkkz4LqcGB7rhfw==
+shogun-core@^6.5.4:
+  version "6.5.4"
+  resolved "https://registry.yarnpkg.com/shogun-core/-/shogun-core-6.5.4.tgz#eae6a7bb7603e0ec72b6bf94db5fac70a9797ed6"
+  integrity sha512-Bm055RRzlGHd9U5Sv63aK2EA8bUUFNriBYtk/VvYb2r2faLp41n9JLW18ScroG2i1AbZC93J/nhCMFhQDsAILA==
   dependencies:
     "@hpke/chacha20poly1305" "^1.7.1"
     "@hpke/hybridkem-x-wing" "^0.6.1"

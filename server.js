@@ -1,4 +1,4 @@
-import Holster from '@mblaney/holster';
+import Holster from '@mblaney/holster/src/holster.js';
 import express from 'express';
 
 // Configuration from environment variables with sensible defaults

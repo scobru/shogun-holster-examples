@@ -7,12 +7,12 @@
   "license": "MIT",
   "scripts": {
     "start": "node server.js",
-    "test": "node test.js"
+    "test": "node auth-test.js"
   },
   "dependencies": {
     "@mblaney/holster": "git+https://github.com/mblaney/holster",
     "express": "^4.21.2",
-    "shogun-core": "^6.5.2",
+    "shogun-core": "^6.5.4",
     "ws": "^8.18.0"
   }
 }
